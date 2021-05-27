@@ -13,7 +13,18 @@ class App extends Component {
           <BlogPost />
           <div id="seperator"></div>
           <div className="wrapper">
-            <ColorBox opacity={1} />
+          <ColorBox opacity={newOpacity} />
+          <ColorBox opacity={newOpacity} />
+          <ColorBox opacity={newOpacity} />
+          <ColorBox opacity={newOpacity} />
+          <ColorBox opacity={newOpacity} />
+          <ColorBox opacity={newOpacity} />
+          <ColorBox opacity={newOpacity} />
+          <ColorBox opacity={newOpacity} />
+          <ColorBox opacity={newOpacity} />
+          <ColorBox opacity={newOpacity} />
+        
+
           </div>
       </div>
     )
